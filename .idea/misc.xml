@@ -3,12 +3,10 @@
   <component name="Black">
     <option name="enabledOnReformat" value="true" />
     <option name="enabledOnSave" value="true" />
-    <option name="executionMode" value="BINARY" />
-    <option name="pathToExecutable" value="D:\miniconda3\Scripts\black.exe" />
-    <option name="sdkUUID" value="219a65be-951b-4d23-b727-efac403c48dc" />
+    <option name="sdkUUID" value="9f635ead-066f-4052-8cca-e77e8f1d37a4" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="langchain" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="llm" project-jdk-type="Python SDK" />
 </project>
